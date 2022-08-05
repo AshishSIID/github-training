@@ -2,3 +2,4 @@ this is the chat application
 we will add emoji
 forms
 button
+Dark mode is added
