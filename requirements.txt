@@ -3,3 +3,6 @@ we will add emoji
 forms
 button
 Dark mode is added
+
+chat with stangers
+added the payment for the premium account
